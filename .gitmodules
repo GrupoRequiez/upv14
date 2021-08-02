@@ -52,3 +52,8 @@
 	path = sale_brand
 	url = git@github.com:GrupoRequiez/sale_brand.git
 	branch = 12.0
+
+[submodule "product_compromise"]
+	path = product_compromise
+	url = git@github.com:GrupoRequiez/product_compromise.git
+	branch = 12.0
