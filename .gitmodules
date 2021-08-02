@@ -7,3 +7,8 @@
 	path = incoming_products_kardex
 	url = git@github.com:GustavoRequiez/incoming_products_kardex.git
 	branch = 12.0
+
+[submodule "revenue_history_projection"]
+	path = revenue_history_projection
+	url = git@github.com:GustavoRequiez/revenue_history_projection.git
+	branch = 12.0
