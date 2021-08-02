@@ -57,3 +57,8 @@
 	path = product_compromise
 	url = git@github.com:GrupoRequiez/product_compromise.git
 	branch = 12.0
+
+[submodule "mrp_ii"]
+	path = mrp_ii
+	url = git@github.com:GrupoRequiez/mrp_ii.git
+	branch = 12.0
