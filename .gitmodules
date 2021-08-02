@@ -32,3 +32,8 @@
 	path = stock_no_negative
 	url = git@github.com:GrupoRequiez/stock_no_negative.git
 	branch = 12.0
+
+[submodule "mass_editing"]
+	path = mass_editing
+	url = git@github.com:GrupoRequiez/mass_editing.git
+	branch = 12.0_old
