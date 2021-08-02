@@ -37,3 +37,8 @@
 	path = mass_editing
 	url = git@github.com:GrupoRequiez/mass_editing.git
 	branch = 12.0_old
+
+[submodule "mrp_sale_info"]
+	path = mrp_sale_info
+	url = git@github.com:GrupoRequiez/mrp_sale_info.git
+	branch = 12.0
