@@ -27,3 +27,8 @@
 	path = product_brand
 	url = git@github.com:GrupoRequiez/product_brand.git
 	branch = 12.0
+
+[submodule "stock_no_negative"]
+	path = stock_no_negative
+	url = git@github.com:GrupoRequiez/stock_no_negative.git
+	branch = 12.0
