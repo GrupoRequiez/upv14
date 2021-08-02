@@ -2,3 +2,8 @@
 	path = product_classification
 	url = git@github.com:GustavoRequiez/product_classification.git
 	branch = 12.0
+
+[submodule "incoming_products_kardex"]
+	path = incoming_products_kardex
+	url = git@github.com:GustavoRequiez/incoming_products_kardex.git
+	branch = 12.0
