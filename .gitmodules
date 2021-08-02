@@ -22,3 +22,8 @@
 	path = GustavoRequiez/value_merchandise_sent
 	url = git@github.com:GustavoRequiez/value_merchandise_sent.git
 	branch = 12.0
+
+[submodule "product_brand"]
+	path = product_brand
+	url = git@github.com:GrupoRequiez/product_brand.git
+	branch = 12.0
