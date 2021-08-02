@@ -42,3 +42,8 @@
 	path = mrp_sale_info
 	url = git@github.com:GrupoRequiez/mrp_sale_info.git
 	branch = 12.0
+
+[submodule "product_supply"]
+	path = product_supply
+	url = git@github.com:GrupoRequiez/product_supply.git
+	branch = 12.0
