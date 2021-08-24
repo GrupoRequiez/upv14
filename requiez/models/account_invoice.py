@@ -19,6 +19,6 @@ class AccountMoveLine(models.Model):
     _inherit = "account.move.line"
     _name = 'account.move.line'
 
-    # _sql_constraints = [
-    #     ('check_amount_currency_balance_sign', 'CHECK(1=1)', "Test _sql_constraints"),
-    # ]
+    _sql_constraints = [
+        ('check_amount_currency_balance_sign', 'CHECK(1=1)', "Test _sql_constraints"),
+    ]
